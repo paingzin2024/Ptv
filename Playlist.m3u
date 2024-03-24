@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:1,mahar 
+https://tv.mahar.live/mahar/website.stream/mahar/website2/chunks.m3u8?|referer=https:myanmartvchannels.com/&|useragent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF:1,YTV
+https://streammain.myanmartvchannels.com:999/website-ytv-stream/website-ytv-stream/chunks.m3u8?nimblesessionid=500581&wmsAuthSign=c2VydmVyX3RpbWU9My8yNC8yMDI0IDU6NDg6MzEgQU0maGFzaF92YWx1ZT1Oam5SbEtVSHBLcW9TQ0ZSRWV5RlRBPT0mdmFsaWRtaW51dGVzPTYwJnN0cm1fbGVuPTM3?|referer=https://myanmartvchannels.com/&|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+#EXTINF,channel k
+https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_standard/index.m3u8?|referer=https://myanmartvchannels.com/&|user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
